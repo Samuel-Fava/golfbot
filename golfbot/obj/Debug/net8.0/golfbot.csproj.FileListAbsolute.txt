@@ -1,0 +1,14 @@
+/home/daniel/golfbot/golfbot/bin/Debug/net8.0/golfbot
+/home/daniel/golfbot/golfbot/bin/Debug/net8.0/golfbot.deps.json
+/home/daniel/golfbot/golfbot/bin/Debug/net8.0/golfbot.runtimeconfig.json
+/home/daniel/golfbot/golfbot/bin/Debug/net8.0/golfbot.dll
+/home/daniel/golfbot/golfbot/bin/Debug/net8.0/golfbot.pdb
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.AssemblyInfoInputs.cache
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.AssemblyInfo.cs
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.csproj.CoreCompileInputs.cache
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.dll
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/refint/golfbot.dll
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.pdb
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/golfbot.genruntimeconfig.cache
+/home/daniel/golfbot/golfbot/obj/Debug/net8.0/ref/golfbot.dll
