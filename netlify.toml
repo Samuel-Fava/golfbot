@@ -1,0 +1,3 @@
+[build]
+  command = "npm start"  # or your equivalent start command
+  publish = "public"  # where your static files are, if any
